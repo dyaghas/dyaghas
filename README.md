@@ -10,7 +10,9 @@
 <br />
 
 ## Technologies
-[<img text-align="left" alt="Python" width="128px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">]
+[<img text-align="left" alt="Python" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+
+[<img text-align="left" alt="Java" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />]
 
 <br />
 <br />
