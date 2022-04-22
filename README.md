@@ -10,9 +10,17 @@
 <br />
 
 ## Technologies
-[<img text-align="left" alt="Python" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+<img text-align="left" alt="Python" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-[<img text-align="left" alt="Java" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />]
+<img alt="Java" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+<img alt="Javascript" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img alt="HTML5" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img alt="CSS3" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img alt="Android Studio" width="128px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 
 <br />
 <br />
