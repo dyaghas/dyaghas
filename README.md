@@ -1,4 +1,4 @@
-### Hi! My name is Gustavo Cristian, also known as dyaghas10.
+### Hi! My name is Gustavo Cristian.
 
 ## I'm a Computer Science undergraduate trying to learn something new every day.
 - Studying Computer Science (1st year)
