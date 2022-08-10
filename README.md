@@ -1,9 +1,9 @@
 ### Hi! My name is Gustavo Cristian.
 
 ## I'm a Computer Science undergraduate trying to learn something new every day.
-- Studying Computer Science (1st year)
-- Looking for an Internship
-- Currently studying PostgreSQL
+- Studying Computer Science (1st year);
+- Looking for an Internship;
+- Currently studying PostgreSQL, Android Development and Python.
 
 ## LinkedIn
 [<img width="26px" alt="LikedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
