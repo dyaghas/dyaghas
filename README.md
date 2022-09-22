@@ -5,9 +5,9 @@
 - Looking for an Internship;
 - Currently studying Android Development (Java) and Python.
 
-[![Gustavo Cristian stats](https://github-readme-stats.vercel.app/api?username=dyaghas&show_icons=true&count_private=true&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&icon_color=778200&border_color=111111&border_radius=9)](https://github.com/dyaghas/github-readme-stats)
+[![Gustavo Cristian stats](https://github-readme-stats.vercel.app/api?username=dyaghas&show_icons=true&count_private=true&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&icon_color=778200&border_color=111111&border_radius=9&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyaghas&layout=compact&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&border_color=111111&border_radius=9)](https://github.com/dyaghas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyaghas&layout=compact&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&border_color=111111&border_radius=9&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ## LinkedIn
 [<img width="26px" alt="LikedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
