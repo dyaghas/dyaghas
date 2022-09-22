@@ -3,7 +3,7 @@
 ## I'm a Computer Science undergraduate trying to learn something new every day.
 - Studying Computer Science (2nd semester);
 - Looking for an Internship;
-- Currently studying PostgreSQL, Android Development and Python.
+- Currently studying Android Development (Java) and Python.
 
 ## LinkedIn
 [<img width="26px" alt="LikedIn page" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
