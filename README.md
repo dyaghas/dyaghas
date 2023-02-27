@@ -1,7 +1,7 @@
 ### Hi! My name is Gustavo Cristian.
 
 ## I'm a Computer Science undergraduate trying to learn something new every day.
-- Studying Computer Science (3rd semester);
+- Computer Science undergraduate (3rd semester);
 - Looking for an Internship / job;
 - Currently studying Java, linux and SQL.
 
