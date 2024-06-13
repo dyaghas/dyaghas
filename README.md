@@ -3,8 +3,8 @@
 <br>
 
 ## I try to learn something new every day.
-- Computer Science undergraduate (5th semester);
-- Looking for an Internship / job;
+- Computer Science undergraduate (6th semester);
+- Early Associate at IBM
 - Currently studying Quality Assurance.
 
 [![Gustavo Cristian stats](https://github-readme-stats.vercel.app/api?username=dyaghas&show_icons=true&count_private=true&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&icon_color=778200&border_color=111111&border_radius=9&card_width=360)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyaghas&layout=compact&bg_color=90,0B0B0B,141414&text_color=CA8E00&title_color=D8A800&border_color=111111&border_radius=9&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
